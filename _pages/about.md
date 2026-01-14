@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: rachel_headshot.png
+  image: rachel_headshot_cropped.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>she/her<p>
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi y'all! I am a first-year Ph.D. student in the Department of Computer Science at the University of Maryland, College Park. My research focuses on applied cryptography and human-centered privacy and security. I am advised by Prof. [Gabriel Kaptchuk](https://www.cs.umd.edu/users/kaptchuk/) and Prof. [Ian Miers](https://www.cs.umd.edu/~imiers/).
+Hi y'all! I am a 2nd-year Ph.D. student in the Department of Computer Science at the University of Maryland, College Park. My research focuses on applied cryptography and human-centered privacy and security. I am advised by Prof. [Gabriel Kaptchuk](https://www.cs.umd.edu/users/kaptchuk/) and Prof. [Ian Miers](https://www.cs.umd.edu/~imiers/).
 
 Previously, I received both my Bachelor of Science and Master of Science in Computer Science from the University of North Carolina at Chapel Hill, where I was advised by Prof. [Saba Eskandarian](https://www.cs.unc.edu/~saba/) and Prof. [Andrew Kwong](https://andrewkwong.org).
 
