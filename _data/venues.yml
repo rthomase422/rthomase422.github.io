@@ -11,3 +11,7 @@
 "PoPETs":
   url: https://petsymposium.org
   color: "#2873b8"
+
+"ePrint":
+  url: https://eprint.iacr.org
+  color: "#5a6d7c"

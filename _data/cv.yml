@@ -12,28 +12,28 @@
     - title: Ph.D. in Computer Science
       institution: University of Maryland, College Park
       year: 2024 - Present
+      description:
+        - Dean's Fellowship
     - title: M.S. in Computer Science
       institution: University of North Carolina at Chapel Hill
       year: 2023 - 2024
     - title: B.S. in Computer Science
       institution: University of North Carolina at Chapel Hill
       year: 2018 - 2022
+      description:
+        - Magna Cum Laude
+        - Minor in Mathematics
 
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant
+    - title: Graduate Assistant
       institution: Department of Computer Science, University of Maryland, College Park
       year: 2024 - Present
       description:
-        - Applied Cryptography 
-        - Human-Centered Privacy and Security
-    - title: Teaching Assistant 
-      institution: Department of Computer Science, University of Maryland, College Park
-      year: 2024 - Present
-      description:
-        - CMSC 414 -  Computer and Network Security
-        - CMSC 839C - Governing Algorithms & Algorithmic Governance
+        - Research in applied cryptography and human-centered privacy and security
+        - Teaching assistant for CMSC 414 - Computer and Network Security
+        - Teaching assistant for CMSC 839C - Governing Algorithms & Algorithmic Governance
 
     - title: Research Assistant
       institution: Department of Computer Science, University of North Carolina at Chapel Hill
@@ -48,6 +48,11 @@
       year: 2021
       description:
         -  Calculus of Functions of Several Variables (MATH 233)
+
+- title: Technical Skills
+  type: list
+  contents:
+    - "Languages: Rust, C, C++, Python, Java, TypeScript/JavaScript, Assembly (x86/ARM), Swift, SQL"
 
 - title: Honors and Awards
   type: time_table
