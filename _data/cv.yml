@@ -54,6 +54,13 @@
   contents:
     - "Languages: Rust, C, C++, Python, Java, TypeScript/JavaScript, Assembly (x86/ARM), Swift, SQL"
 
+- title: Service
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - Subreviewer, Eurocrypt 2026
+
 - title: Honors and Awards
   type: time_table
   contents:
