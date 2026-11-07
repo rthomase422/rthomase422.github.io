@@ -32,7 +32,7 @@
       year: 2024 - Present
       description:
         - Research in applied cryptography and human-centered privacy and security
-        - Teaching assistant for CMSC 414 - Computer and Network Security
+        - Teaching assistant for CMSC 414 - Computer and Network Security (4 semesters)
         - Teaching assistant for CMSC 839C - Governing Algorithms & Algorithmic Governance
 
     - title: Research Assistant
@@ -48,6 +48,67 @@
       year: 2021
       description:
         -  Calculus of Functions of Several Variables (MATH 233)
+
+- title: Publications & Preprints
+  type: time_table
+  contents:
+    - title: "A Cryptographic Perspective on California's Delete Request and Opt-out Platform"
+      year: 2026
+      maindescription: "Aarushi Goel, Gabriel Kaptchuk, Peihan Miao, Phuoc Van Long Pham, Satvinder Singh, <b>Rachel Thomas</b> (alphabetical order)"
+      department: "Preprint, IACR Cryptology ePrint Archive, Paper 2026/1421"
+      linkitems:
+        - linkname: PDF
+          link: https://eprint.iacr.org/2026/1421.pdf
+    - title: "Cryptographic Personas: Responsible Pseudonyms Without De-Anonymization"
+      year: 2025
+      maindescription: "<b>Rachel Thomas</b>, Oliwia Kempinski, Hari Kailad, Emma Margaret Shroyer, Ian Miers, Gabriel Kaptchuk"
+      department: "Preprint, IACR Cryptology ePrint Archive, Paper 2025/1969"
+      linkitems:
+        - linkname: PDF
+          link: https://eprint.iacr.org/2025/1969.pdf
+    - title: "CheckOut: User-Controlled Anonymization for Customer Loyalty Programs"
+      year: 2024
+      maindescription: "Matthew Gregoire, <b>Rachel Thomas</b>, Saba Eskandarian"
+      department: "Proceedings on Privacy Enhancing Technologies (PoPETs 2024)"
+      linkitems:
+        - linkname: PDF
+          link: https://petsymposium.org/popets/2024/popets-2024-0076.pdf
+        - linkname: Code
+          link: https://github.com/MatthewGregoire42/LoyaltyPointsCrypto
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: Zero-Knowledge Social Proofs
+      institution: Department of Computer Science, University of Maryland, College Park
+      year: 2025 - Present
+      description:
+        - Designed a privacy-preserving proof-of-personhood framework using zero-knowledge proofs to achieve Sybil resistance and unlinkable identity verification without revealing user attributes.
+        - Leveraged zkTLS-based attestations and exploring OPRF- and VDF-based constructions to enable secure account ownership proofs, deduplication, and abuse resistance under adversarial conditions.
+    - title: "A Cryptographic Perspective on California's DROP"
+      institution: Department of Computer Science, University of Maryland, College Park
+      year: 2025 - Present
+      description:
+        - Conducted a cryptographic analysis of California's Delete Request and Opt-out Platform (DROP), identifying opportunities to strengthen privacy, accountability, and verifiable processing guarantees for statewide data deletion requests.
+        - Designed and evaluated privacy-preserving protocol enhancements using Private Set Intersection (PSI), zero-knowledge proofs, and authenticated commitments to improve the security and auditability of large-scale data deletion workflows.
+    - title: "Cryptographic Personas: Responsible Pseudonyms without De-Anonymization"
+      institution: Department of Computer Science, University of Maryland, College Park
+      year: 2024 - Present
+      description:
+        - Developed cryptographic personas, a privacy-preserving messaging framework enabling unlinkable pseudonymous identities with policy-based, revocable anonymity for moderation without requiring de-anonymization.
+        - Optimized efficiency via offline zero-knowledge proof generation and folding techniques, and integrated prototype deployments with messaging platforms (Signal, Slack) for end-to-end evaluation in real-time settings.
+    - title: Side-Channel Analysis of Microsoft Edge Password Leak Detection Protocol
+      institution: Department of Computer Science, University of North Carolina at Chapel Hill
+      year: 2023 - 2024
+      description:
+        - "Analyzed side-channel leakage in Microsoft Edge's Password Leak Detection pipeline and Microsoft SEAL homomorphic encryption library, identifying information leakage vectors under realistic adversarial assumptions."
+        - Developed and evaluated practical attack methodologies across native and browser-based environments, constructing threat models to assess protocol robustness against timing and microarchitectural leakage.
+    - title: "CheckOut: User-Controlled Anonymization for Customer Loyalty Programs"
+      institution: Department of Computer Science, University of North Carolina at Chapel Hill
+      year: 2022 - 2024
+      description:
+        - Designed and implemented CheckOut, a privacy-preserving loyalty system enabling unlinkable transaction authorization via user-controlled pseudonymization of loyalty identifiers, preventing cross-merchant tracking.
+        - Developed a cryptographic protocol and mobile prototype leveraging randomized barcode representations and lightweight client-side transformations to enforce selective disclosure of loyalty credentials while preserving reward correctness and auditability.
 
 - title: Technical Skills
   type: list

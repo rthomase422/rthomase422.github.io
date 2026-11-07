@@ -11,7 +11,7 @@ nav_order: 6
 
 **Teaching Assistant**, Department of Computer Science
 
-- **CMSC 414: Computer and Network Security** (Fall 2024)<br>
+- **CMSC 414: Computer and Network Security** (4 semesters, Fall 2024 – present)<br>
   Undergraduate course covering cryptography, network security, and software security. Held office hours, graded assignments and exams, and mentored students on course material.
 - **CMSC 839C: Governing Algorithms & Algorithmic Governance**<br>
   Graduate seminar on the interplay between algorithms, policy, and governance. Supported course logistics, grading, and student mentorship.
